@@ -18,7 +18,19 @@ import com.assignment.salesken.services.StudentService;
 
 @Controller
 public class StudentReportingController {
-
+	
+	
+	/*
+	 * Hello, to use this application first please configure the mysql database configuration according to 
+	 * your local system.
+	 * then just run the project as a spring boot project and go to the local host server
+	 * Ex. http://localhost:8080/
+	 * and after that the front end jsp will open and you can perform the operations.
+	 * Thank you.
+	 */
+	
+	
+	
 	@Autowired
 	private StudentService sService;
 	
